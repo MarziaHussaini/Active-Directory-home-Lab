@@ -44,7 +44,7 @@
     </ul>
   </li>
   <li><b>Domain Name:</b> lab.local</li>
-  <li><b>VMware Adapter:</b> Bridged or Host-Only (depending on setup)</li>
+  <li><b>VMware Adapter:</b> Bridged </li>
 </ul>
 
 <h2>Windows 10 Client</h2>
@@ -52,7 +52,7 @@
   <li><b>IP Address:</b> 192.168.100.51 (via DHCP)</li>
   <li><b>DNS Server:</b> 192.168.100.1</li>
   <li><b>Joined Domain:</b> ✅ lab.local</li>
-  <li><b>Logged in with:</b> Domain user account (e.g., <i>lab\student1</i>)</li>
+  <li><b>Logged in with:</b> Domain user account</li>
   <li><b>Ping to lab.local:</b> ✅ Successful</li>
 </ul>
 <h2>Diagram</h2>
@@ -84,7 +84,7 @@
 <ul>
   <li>DNS role auto-installed with AD DS</li>
   <li>Zone <i>lab.local</i> created automatically</li>
-  <li>Supports domain services (Kerberos, LDAP, etc.)</li>
+  <li>Supports domain services </li>
 </ul>
 
 <h2>Step 4: Install DHCP Server</h2>
@@ -106,7 +106,7 @@
   <li>Received IP: 192.168.100.51</li>
   <li>Received DNS: 192.168.100.1</li>
   <li>Joined domain: <i>lab.local</i></li>
-  <li>Restarted and logged in as: <i>lab\student1</i></li>
+  <li>Restarted and logged in </i></li>
 </ul>
 
 <h2>Windows Server 2019 instalation </h2>
