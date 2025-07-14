@@ -108,3 +108,20 @@
   <li>Joined domain: <i>lab.local</i></li>
   <li>Restarted and logged in as: <i>lab\student1</i></li>
 </ul>
+
+<h2>Windows Server 2019 instalation </h2>
+
+<img width="956" height="466" alt="1" src="https://github.com/user-attachments/assets/c5b09289-8fef-43a5-9437-aeecd8e9dff0" />
+
+
+
+<img width="954" height="476" alt="222222" src="https://github.com/user-attachments/assets/978c6793-8fb5-4dfd-943c-b7fb96d2321f" />
+
+<img width="943" height="482" alt="3333" src="https://github.com/user-attachments/assets/f6f32e58-0671-4c72-94e0-456b88adc4fe" />
+
+
+<img width="956" height="478" alt="5" src="https://github.com/user-attachments/assets/e710cd17-99ec-470d-880c-8dd3d9562398" />
+
+
+
+
