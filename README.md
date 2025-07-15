@@ -109,7 +109,7 @@
   <li>Restarted and logged in </i></li>
 </ul>
 
-<h2>Windows Server 2019 instalation </h2>
+<h2>Windows Server 2019 Diagram </h2>
 
 <img width="956" height="466" alt="1" src="https://github.com/user-attachments/assets/c5b09289-8fef-43a5-9437-aeecd8e9dff0" />
 
@@ -121,6 +121,52 @@
 
 
 <img width="956" height="478" alt="5" src="https://github.com/user-attachments/assets/e710cd17-99ec-470d-880c-8dd3d9562398" />
+
+
+<h2>AD Diagram </h2>
+
+
+<img width="914" height="506" alt="Ad" src="https://github.com/user-attachments/assets/dc69d065-e94e-4375-966d-1387b0ae972e" />
+
+
+
+<img width="954" height="503" alt="active3" src="https://github.com/user-attachments/assets/38ba88f4-c0d7-4434-a1f7-418b45cac44d" />
+
+
+
+<img width="853" height="444" alt="active2" src="https://github.com/user-attachments/assets/a6f7a0b9-cb51-47a3-9035-b4e4147e0162" />
+
+
+<h2>DHCP Diagram </h2>
+
+
+
+<img width="956" height="505" alt="DHCP 1" src="https://github.com/user-attachments/assets/e84c87a0-c50b-4c4e-8708-48cee221c247" />
+
+
+
+<img width="938" height="437" alt="dhcp" src="https://github.com/user-attachments/assets/8c9d5dfe-fe31-4fb4-a97e-106da71a3c62" />
+
+
+<h2>Windows 10 Diagram </h2>
+
+
+
+<img width="884" height="510" alt="windows 10" src="https://github.com/user-attachments/assets/83f6f5f9-07e3-4dde-bbad-41bd6c0166c1" />
+
+
+Windows 10 successfully receive policy updates from the Server and other details
+
+
+
+<img width="790" height="454" alt="policy" src="https://github.com/user-attachments/assets/b6dee5c9-bc22-47ab-9735-4ef76ab7ec19" />
+
+
+
+<h2>Verify DNS </h2>
+
+
+<img width="836" height="461" alt="window101" src="https://github.com/user-attachments/assets/2e7d3591-cf31-4db5-a685-db6cf360e7b4" />
 
 
 
